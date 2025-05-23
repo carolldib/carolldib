@@ -32,7 +32,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  👋 Oi! Eu sou a <strong>Carol Dib</strong><br>
+  📍 De Belo Horizonte, MG<br>
+  🎓 Estudante de TI no <strong>Cotemig</strong>, com foco em <strong>desenvolvimento mobile</strong><br>
+  💡 Atualmente desenvolvendo o projeto <strong>PITCH</strong> com meus colegas de sala<br>
+  📱 Explorando tecnologias como <strong>Kotlin</strong>, <strong>Swift</strong> e <strong>Dart</strong><br>
+  🥋 Nas horas vagas, troco o teclado pelo tatame — <strong>jiu-jitsu</strong> na veia!<br>
+  🚀 Uso o GitHub pra mostrar meus projetos e evoluir de forma profissional
+</p>
 
 ###
 
@@ -79,5 +87,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=carolldib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
